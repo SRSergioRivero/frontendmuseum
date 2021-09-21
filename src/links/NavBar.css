@@ -1,0 +1,31 @@
+.logotype {
+  display:block;
+  margin:auto;
+  margin-top: 1.8rem;
+}
+
+#navBar {
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  display: flex;
+  justify-content: flex-end;
+  top: -3rem;
+  left: -2rem;
+}
+
+.iconUser {
+  width: 2.5rem;
+  margin-left: 1rem;
+ 
+}
+
+/* .iconUserSpace {
+  position: relative;
+  top: -15px;
+  left: -5px;
+}
+
+.iconicon {
+  right: -15px;
+} */
